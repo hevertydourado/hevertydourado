@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hevertydourado
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning C++ and PHP
-- 💞️ I’m looking to collaborate on nothing :(
+- 🌱 I’m currently learning Elixir
 - 📫 How to reach me, hevertydouradob@gmail.com or cipher3301home@gmail.com
 
 <!---
