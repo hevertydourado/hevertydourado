@@ -1,3 +1,5 @@
+👨‍💻
+Estudante de **Defesa Cibernética** na *FIAP*. Entusiasta de *tecnologia* e *cibersegurança*. Técnico em infraestrutura. 
 
 --------
 <div align="center">
