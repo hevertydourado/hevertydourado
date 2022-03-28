@@ -29,6 +29,10 @@
   <a href="https://hevertydourado.github.io" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
 </div>
 
+<div>
+  <br></br>
+</div>
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21xoaaw5ycrmvao7qdf4dm7pq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21xoaaw5ycrmvao7qdf4dm7pq&redirect=true)
   
 ##
