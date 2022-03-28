@@ -34,7 +34,7 @@
   
 ##
   
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <!---
 hevertydourado/hevertydourado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
