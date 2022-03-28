@@ -26,7 +26,6 @@
   <a href = "mailto:d0ur4d0@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/Douratto" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hevertydourado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hevertydourado" target="_blank"><img src="https://pages.github.com/images/logo.svg" target="_blank"></a>
 </div>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21xoaaw5ycrmvao7qdf4dm7pq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21xoaaw5ycrmvao7qdf4dm7pq&redirect=true)
