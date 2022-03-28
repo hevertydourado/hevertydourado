@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @hevertydourado
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Elixir
-- 📫 How to reach me, hevertydouradob@gmail.com or cipher3301home@gmail.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hevertydourado)](https://github.com/hevertydourado/github-readme-stats)
 
 <!---
 hevertydourado/hevertydourado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
