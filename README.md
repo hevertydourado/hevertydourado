@@ -28,6 +28,10 @@
   <a href="https://www.linkedin.com/in/hevertydourado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
+--------
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21xoaaw5ycrmvao7qdf4dm7pq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21xoaaw5ycrmvao7qdf4dm7pq&redirect=true)
+  
 ##
   
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
