@@ -1,6 +1,10 @@
 👨‍💻
 Estudante de **Defesa Cibernética** na *FIAP*. Entusiasta de *tecnologia* e *cibersegurança*. Técnico em infraestrutura. 
 
+<div>
+  <a href=https://drive.google.com/file/d/1U1eexAb3no58Mkldecl9B2ycNyomfIp3/view?usp=sharing target="_blank"><img aligh="center "alt="Heverty-IBSEC" height="70" widht="80" src="https://raw.githubusercontent.com/hevertydourado/hevertydourado/main/unnamed.jpg">
+</div>
+
 --------
 <div align="center">
   <a href="https://github.com/hevertydourado">
@@ -21,11 +25,11 @@ Estudante de **Defesa Cibernética** na *FIAP*. Entusiasta de *tecnologia* e *ci
   <img align="center" alt="Heverty-hydra" height="30" width="40" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg">
   <img align="center" alt="Heverty-BurpSuite" height="30" width="40" src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg">
 </div>
-
+  
 --------
   
 <div> 
-  <a href = "mailto:d0ur4d0@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:d0ur4d0@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/Douratto" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hevertydourado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://hevertydourado.github.io" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
