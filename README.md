@@ -3,7 +3,6 @@ Estudante de **Defesa Cibernética** na *FIAP*. Entusiasta de *tecnologia* e *ci
 
 <div>
   <a href="https://drive.google.com/file/d/1U1eexAb3no58Mkldecl9B2ycNyomfIp3/view" target="_blank"><img aligh="center "alt="Heverty-IBSEC" height="70" widht="80" src="https://raw.githubusercontent.com/hevertydourado/hevertydourado/main/unnamed.jpg" target="_blank"></a>
-  <a href="https://drive.google.com/file/d/1U1eexAb3no58Mkldecl9B2ycNyomfIp3/view" target="_blank"><img src="https://raw.githubusercontent.com/hevertydourado/hevertydourado/main/unnamed.jpg" target="_blank"></a>
 </div>
 
 --------
