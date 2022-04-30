@@ -9,7 +9,7 @@ Estudante de **Defesa Cibernética** na *FIAP*. Entusiasta de *tecnologia* e *ci
 <div align="center">
   <a href="https://github.com/hevertydourado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hevertydourado&&show_icons=true&count_private=true&theme=chartreuse-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevertydourado&theme=chartreuse-dark"/>
+  /* <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevertydourado&theme=chartreuse-dark"/> */
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Heverty-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
