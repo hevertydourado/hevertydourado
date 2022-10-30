@@ -14,7 +14,6 @@ Estudante de **Defesa Cibernética** na *FIAP*. Entusiasta de *tecnologia* e *ci
 <div style="display: inline_block"><br>
   <img align="center" alt="Heverty-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Heverty-Kali" height="30" width="40" src="https://www.kali.org/images/kali-logo.svg">
-  <img align="center" alt="Heverty-Windows" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/94/M_box.svg">
   <img align="center" alt="Heverty-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="Heverty-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Heverty-WireShrak" height="30" width="40" src="https://www.kali.org/images/tool-logo-wireshark.svg">
