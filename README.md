@@ -1,5 +1,5 @@
 👨‍💻
-Estudante de **Defesa Cibernética** na *FIAP*. Entusiasta de *tecnologia* e *cibersegurança*. Técnico em infraestrutura. 
+Graduado **Defesa Cibernética** na *FIAP*. Entusiasta de *tecnologia* e *cibersegurança*. Analista de Segurança da Informação focado em Engenharia de Detecção. 
 
 <div>
   <a href="https://drive.google.com/file/d/1U1eexAb3no58Mkldecl9B2ycNyomfIp3/view" target="_blank"><img aligh="center "alt="Heverty-IBSEC" height="70" widht="80" src="https://raw.githubusercontent.com/hevertydourado/hevertydourado/main/unnamed.jpg" target="_blank"></a>
